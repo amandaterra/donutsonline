@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721447620391",
+    "project_id": "donuts-online",
+    "storage_bucket": "donuts-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721447620391:android:16a6c92dc46434a4066302",
+        "android_client_info": {
+          "package_name": "com.example.donutsonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721447620391-4fk6ss25r8o15qjdg15pfa36isd8hmf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOg-2MgrG4dI6qUBzKasdM72-n9Q7ZN3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721447620391-4fk6ss25r8o15qjdg15pfa36isd8hmf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
